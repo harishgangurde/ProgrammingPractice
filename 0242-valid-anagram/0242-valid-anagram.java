@@ -21,7 +21,8 @@ class Solution {
             
             frequencyMap.put(ch, currentFrequency - 1);
         }
-        return true;
+        return true; 
+        
     }
 }
         
