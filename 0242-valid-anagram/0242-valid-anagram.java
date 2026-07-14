@@ -1,23 +1,27 @@
+import java.util.HashMap;
+import java.util.Map;
 class Solution {
-    public boolean isAnagram(String s, String t) {
-        s = s.toLowerCase();
-        t = t.toLowerCase();
+    public boolean isAnagram(String s, String t){
 
-        int[] counts = new int[26];
+        if(s.length() != t.length())
+            return false;
 
-        for(int i = 0; i < s.length(); i++){
-            counts[s.charAt(i)-'a']++;
+        Map <Character,Integer> frequencyMap = new HashMap<>();
+
+        for(char ch : s.toCharArray()){
+            frequencyMap.put(ch, frequencyMap.getOrDefault(ch,0)+1);
         }
 
-        for(int i = 0; i < t.length(); i++){
-            counts[t.charAt(i)-'a']--;
-        }
+        for(char ch : t.toCharArray()){
 
-        for(int count : counts){
-            if(count != 0)
+            int currentFrequency = frequencyMap.getOrDefault(ch,0);
+
+            if(currentFrequency == 0)
                 return false;
+            
+            frequencyMap.put(ch, currentFrequency - 1);
         }
         return true;
-        
     }
 }
+        
