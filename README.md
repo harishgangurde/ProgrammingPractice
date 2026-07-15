@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0347-top-k-frequent-elements) |
+| [0535-encode-and-decode-tinyurl](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0535-encode-and-decode-tinyurl) |
 ## Sorting
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0242-valid-anagram) |
+| [0535-encode-and-decode-tinyurl](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0535-encode-and-decode-tinyurl) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -48,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0535-encode-and-decode-tinyurl) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
