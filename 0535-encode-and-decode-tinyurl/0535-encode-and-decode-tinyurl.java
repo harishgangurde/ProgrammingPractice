@@ -18,11 +18,9 @@ public class Codec {
         int lastSlashIndex = shortUrl.lastIndexOf('/');
         String idString = shortUrl.substring(lastSlashIndex + 1);
         int key = Integer.parseInt(idString);
-        return map.get(key);
-        
+        return map.get(key);        
     }
 }
-
 // Your Codec object will be instantiated and called as such:
 // Codec codec = new Codec();
 // codec.decode(codec.encode(url));
