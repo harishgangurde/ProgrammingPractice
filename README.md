@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0271-encode-and-decode-strings) |
 | [0535-encode-and-decode-tinyurl](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0535-encode-and-decode-tinyurl) |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
