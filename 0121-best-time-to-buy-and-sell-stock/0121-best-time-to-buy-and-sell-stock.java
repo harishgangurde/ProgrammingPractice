@@ -16,7 +16,6 @@ class Solution {
                 }
             }
         }
-        return maxProfit;
-        
+        return maxProfit;      
     }
 }
