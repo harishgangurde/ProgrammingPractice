@@ -15,7 +15,6 @@ class Solution {
             sumCountMap.put(prefixSum,
             sumCountMap.getOrDefault(prefixSum, 0) + 1);
         }
-
         return result;
     }
 
