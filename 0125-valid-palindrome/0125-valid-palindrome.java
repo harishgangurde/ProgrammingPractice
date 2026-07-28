@@ -19,6 +19,5 @@ class Solution {
             right--;
         }
         return true;
-
     }
 }
