@@ -5,8 +5,9 @@ class Solution {
 
         int left = 0;
         int maxLength = 0;
+        int n = s.length();
 
-        for(int right = 0; right < s.length(); right++){
+        for(int right = 0; right < n; right++){
             
             while(set.contains(s.charAt(right))){
                 set.remove(s.charAt(left));
