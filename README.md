@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0535-encode-and-decode-tinyurl](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0271-encode-and-decode-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0535-encode-and-decode-tinyurl](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0535-encode-and-decode-tinyurl) |
 ## Divide and Conquer
 |  |
@@ -106,4 +108,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
