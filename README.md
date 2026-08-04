@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/harishgangurde/ProgrammingPractice/tree/master/1480-running-sum-of-1d-array) |
+| [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/harishgangurde/ProgrammingPractice/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |
