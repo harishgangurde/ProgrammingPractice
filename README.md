@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/harishgangurde/ProgrammingPractice/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0877-stone-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -127,9 +129,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harishgangurde/ProgrammingPractice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0074-search-a-2d-matrix) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
