@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0002-add-two-numbers) |
 | [0877-stone-game](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harishgangurde/ProgrammingPractice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/harishgangurde/ProgrammingPractice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
 | ------- |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0206-reverse-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/harishgangurde/ProgrammingPractice/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
