@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0002-add-two-numbers) |
 | [0877-stone-game](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harishgangurde/ProgrammingPractice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Matrix
@@ -151,11 +152,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/harishgangurde/ProgrammingPractice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
